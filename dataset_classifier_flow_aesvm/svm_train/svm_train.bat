@@ -1,0 +1,1 @@
+python easy.py ../svm_feature_gen(auto-encoder)/train.txt ../svm_feature_gen(auto-encoder)/test.txt 
