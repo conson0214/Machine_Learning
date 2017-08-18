@@ -143,7 +143,7 @@ class auto_encoder(object):
         return (cost, updates)
 
 def test_dA(learning_rate=0.01, training_epochs=20,
-            dataset='..\\raw_data\\data.pkl',
+            dataset='..\\real_data\\data.pkl',
             batch_size=10, output_folder='cA_plots', contraction_level=.1):
 
     # 1、导入数据集#
@@ -214,7 +214,7 @@ def test_dA(learning_rate=0.01, training_epochs=20,
     image.save('filters_corruption_0.png')
 
     #计算每个样本经过auto-encoder的隐藏层, 存入svm数据
-    read_file = open('..\\raw_data\\data.pkl', 'rb')
+    read_file = open('..\\real_data\\data.pkl', 'rb')
     train_set, test_set = cPickle.load(read_file)
     read_file.close()
     #train_set

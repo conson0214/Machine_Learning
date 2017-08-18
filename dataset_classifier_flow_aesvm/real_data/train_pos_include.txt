@@ -1,0 +1,12 @@
+兰州 car all
+三厂四区 car all
+安徽 car all
+广西 car all
+成都 car all
+榆林 car all
+甘肃兰州 car all
+西安东郊 car all
+西安郊区 car all
+长安县 car all
+长庆 a1 car all
+长庆 a2 car all
