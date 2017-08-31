@@ -1,0 +1,2 @@
+D:\Caffe\caffe-master\Build\x64\Release\convert_imageset.exe --resize_width=32 --resize_height=32 --shuffle D:\CaffeLearn\fine-tune\example\data\train\ D:\CaffeLearn\fine-tune\example\data\train.txt D:\CaffeLearn\fine-tune\example\data\trainldb
+pause

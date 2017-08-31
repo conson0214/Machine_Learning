@@ -1,0 +1,13 @@
+Train:
+car a1
+construction a1/a2/a3/b1/b3/changan
+farm a1/a2
+pole a1
+road a1/a2/a3
+
+Val:
+car a2
+construction guangxi
+farm b1
+pole a2
+road b3
